@@ -1,7 +1,7 @@
 ## OI EU SOU O FACA :)
 
  <div>
-   <a href="https://github.com/MatheusMFaccin">
+   <a href="https://github.com/GabrielAF-Faca">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAF-Faca&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAF-Faca&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
